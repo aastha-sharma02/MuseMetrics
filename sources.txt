@@ -1,0 +1,2 @@
+# Kaggle
+# https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification
