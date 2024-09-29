@@ -47,3 +47,5 @@ Through this project, we were able to expand our skillsets by exploring brand-ne
 ## What's next for MuseMetrics
 We believe the possibilites for MuseMetrics are endless. In the future, we hope for MuseMetrics to not only become a hub for poets, but also become a platform for singers and songwriters to search for potential collaborators, review poets work and directly reach out to work with them. Additionally, we hope to add features such as suggested keys, suggested lyrics and the option to create an AI-generated demo of the song for poets, allowing them greater control of how their work is used. Another feature we hope to incorporate is developing grammars to parse lyrics so we can look at things such as the phoneme breakdown and analyze meter and rhyme scheme By doing so, we can reincorporate a timeless art in a modern way to continue engaging critically with it.
 
+
+https://devpost.com/software/musemetrics
